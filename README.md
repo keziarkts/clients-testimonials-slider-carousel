@@ -2,9 +2,9 @@
 
 A clients testimonials slider carousel built with HTML & CSS (+bootstrap).
 
-![Figure: Screenshot of the slider carousel](./images/schema.jpg)
+![Figure: Screenshot of the slider carousel](./img_slider-carousel.jpg)
 
-<b>note</b>: I used and integrated this code for a bigger front-end project (that i *hopefully* will add here soon). <br/>
+<b>note</b>: I used and integrated this code for a bigger front-end project (that i *hopefully* will add here on github soon). <br/>
 My purpose is to provide a bunch of helpful "little" codes here and there ;)
 
 
