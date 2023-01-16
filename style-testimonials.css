@@ -1,0 +1,114 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html, body {
+    font-family: "Roboto", sans-serif;
+}
+
+
+/* CAROUSEL SECTION */
+#carousel1 {
+    margin-top: 55px;
+    margin-bottom: 55px;
+    padding-top: 35px ;
+    padding-bottom: 35px;
+    height: 620px;
+    background-color: #e4e4e4;
+}
+
+.carousel-title {
+    font-size: 50px;
+    font-weight: 700;
+    color: #1f1e1e;
+    text-align: center;
+    margin-bottom: 55px;
+}
+
+/* text-style */
+.testimonial-style .testimonial-caption-style {
+    font-weight: 400;
+    font-size: 24px;
+    color: rgb(92, 91, 91);
+    line-height: 30px;
+    bottom: 40%;
+    text-shadow: none;
+    top: 10%;
+  }
+
+  .testimonial-authors {
+    font-weight: 700;
+    font-size: 24px;
+    color: #1f1e1e;
+    line-height: 40px;
+    margin-top: 40px;
+  }
+
+  .testimonial-authors-role {
+    font-weight: 600;
+    font-size: 21px;
+    color: rgb(92, 91, 91);
+  }
+
+  /* carousel-height-control */
+  .testimonial-style .carousel-inner > .item {
+    padding-top: auto;
+    padding-bottom: auto;
+    height: 380px;
+  }
+
+  /* carousel-left-right-control */
+  .testimonial-style .carousel-control.left {
+    background: none;
+    box-shadow: none;
+    text-shadow: none;
+  }
+
+  .testimonial-style .carousel-control.right {
+    background: none;
+    box-shadow: none;
+    text-shadow: none;
+  }
+
+  .testimonial-style .carousel-control {
+    color: #1f1e1e;
+  }
+
+  .testimonial-style .carousel-control:hover {
+    color: #1f1e1e;
+    text-decoration: none;
+    transition: background-color 1s ease;
+  }
+
+  /* indicators */
+  .testimonial-style .carousel-indicators .active {
+    width: 100px;
+    height: 100px;
+    opacity: 1;
+    border: 5px solid rgb(6, 55, 88);
+    transition: slide 1s ease;
+  }
+  
+  .testimonial-style .carousel-indicators {
+    position: relative;
+    right: 50%;
+    top: auto;
+    bottom: 0px;
+    margin-top: 40px;
+    margin-right: -19px;
+  }
+  
+  .testimonial-style .carousel-indicators li {
+    width: 100px;
+    height: 100px;
+    cursor: pointer;
+    border-radius: 50%;
+    opacity: 0.5;
+    overflow: hidden;
+    transition: opacity 1s ease;
+    vertical-align: middle;
+  }
+  /* Textimonial CSS Code End */
+  
+
